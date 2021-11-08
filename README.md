@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[twitter]: https://twitter.com/https://twitter.com/JaCee____
+[twitter]: https://twitter.com/JaCee____
 [discord]: https://discordapp.com/users/390237452595363866
 
 [vscode]: https://code.visualstudio.com/
