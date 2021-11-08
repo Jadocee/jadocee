@@ -22,7 +22,7 @@ Hi, I’m @jAcee12 👋
 # Contact Me
 
 [<img align="left" alt="jadocee#4635" width="32px" src="Icons/Discord-Logo-Color.svg" />][discord]
-[<img align="left" alt="@JaCee____" width="32px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="@JaCee____" width="32px" src="Icons/Logo blue.svg" />][twitter]
 <br/>
 
 
