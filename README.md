@@ -9,13 +9,10 @@ Hi, I’m @jAcee12 👋
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-# Languages I have experience with
+# Languages and Tools
 
-[<img align="left" alt="jadocee#4635" width="32px" src="Icons/HTML5_Logo.svg" />]
-<br/>
-
-# Tools that I use
-
+<img align="left" alt="jadocee#4635" width="32px" src="Icons/HTML5_Logo.svg" />
+<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />
 [<img align="left" alt="jadocee#4635" width="32px" src="Icons/vscode.svg" />][vscode]
 <br/>
 
