@@ -2,7 +2,7 @@ Hi, I’m @jAcee12 👋
 
 # About Me
 
-📚 I am currently studying a bachelor of software engineering at the university of newcastle, australia.
+📚 I am currently studying a bachelor of software engineering at the university of newcastle, australia.<br/>
 💻 PC gamer.
 
 - 👀 I’m interested in ...
