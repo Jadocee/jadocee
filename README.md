@@ -13,7 +13,7 @@ Hi, I’m @jAcee12 👋
 
 [<img align="left" alt="HTML5" width="48px" height="48px" src="Icons/HTML5_Logo.svg" />][vscode]
 [<img align="left" alt="CSS" width="48px" height="48px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
-[<img align="left" alt="JavaScript" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />][vscode]
+[<img align="left" alt="JavaScript" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />][javascript]
 <!--<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />-->
 [<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/vscode.svg" />][vscode]
 <br/><br/>
