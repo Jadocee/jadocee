@@ -6,8 +6,8 @@ I am currently studying a bachelor of software engineering at the university of 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 # Contact Me
-[<img align="left" alt="jadocee#4635" width="22px" src="https://img.icons8.com/fluency/48/000000/discord.png" />][twitter]
-[<img align="left" alt="@JaCee____" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="jadocee#4635" width="48px" src="https://img.icons8.com/fluency/48/000000/discord.png" />][twitter]
+[<img align="left" alt="@JaCee____" width="48px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
 
 
 <!---
