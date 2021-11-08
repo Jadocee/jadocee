@@ -15,13 +15,13 @@ Hi, I’m @jAcee12 👋
 [<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
 <!--<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />-->
 [<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/vscode.svg" />][vscode]
-<br/>
+<br/><br/>
 
 # Contact Me
 
 [<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/Discord-Logo-Color.svg" />][discord]
 [<img align="left" alt="@JaCee____" width="48px" height="48px" src="Icons/Logo blue.svg" />][twitter]
-<br/>
+<br/><br/>
 
 
 <!---
