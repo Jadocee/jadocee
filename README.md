@@ -11,8 +11,8 @@ Hi, I’m @jAcee12 👋
 
 # Languages and Tools
 
-[<img align="left" alt="jadocee#4635" width="32px" src="Icons/HTML5_Logo.svg" />][]
-[<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />][]
+[<img align="left" alt="jadocee#4635" width="32px" src="Icons/HTML5_Logo.svg" />][vscode]
+[<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />][vscode]
 <!--<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />-->
 [<img align="left" alt="jadocee#4635" width="32px" src="Icons/vscode.svg" />][vscode]
 <br/>
