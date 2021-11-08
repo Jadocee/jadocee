@@ -11,22 +11,22 @@ Hi, I’m @jAcee12 👋
 
 # Languages and Tools
 
-[<img align="left" alt="HTML5" width="48px" height="48px" src="Icons/HTML5_Logo.svg" />][vscode]
-[<img align="left" alt="CSS" width="48px" height="48px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
-[<img align="left" alt="JavaScript" width="48px" height="48px" src="Icons/icons8-javascript.svg" />][javascript]
-[<img align="left" alt="C++" width="48px" height="48px" src="Icons/icons8-c++.svg" />][c++]
-[<img align="left" alt="Java" width="48px" height="48px" src="Icons/icons8-java.svg" />][java]
+[<img align="left" alt="HTML5" width="32px" height="32px" src="Icons/HTML5_Logo.svg" />][vscode]
+[<img align="left" alt="CSS" width="32px" height="32px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
+[<img align="left" alt="JavaScript" width="32px" height="32px" src="Icons/icons8-javascript.svg" />][javascript]
+[<img align="left" alt="C++" width="32px" height="32px" src="Icons/icons8-c++.svg" />][c++]
+[<img align="left" alt="Java" width="32px" height="32px" src="Icons/icons8-java.svg" />][java]
 
-[<img align="left" alt="VSCode" width="48px" height="48px" src="Icons/vscode.svg" />][vscode]
-[<img align="left" alt="CLion" width="48px" height="48px" src="Icons/CLion_icon.svg" />][clion]
-[<img align="left" alt="IntelliJ IDEA" width="48px" height="48px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
+[<img align="left" alt="VSCode" width="32px" height="32px" src="Icons/vscode.svg" />][vscode]
+[<img align="left" alt="CLion" width="32px" height="32px" src="Icons/CLion_icon.svg" />][clion]
+[<img align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
 
 # Contact Me
 
-[<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/Discord-Logo-Color.svg" />][discord]
-[<img align="left" alt="@JaCee____" width="48px" height="48px" src="Icons/Logo blue.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="48px" height="48px" src="Icons/icons8-linkedin.svg" />][linkedin]
+[<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/Discord-Logo-Color.svg" />][discord]
+[<img align="left" alt="@JaCee____" width="32px" height="32px" src="Icons/Logo blue.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" height="32px" src="Icons/icons8-linkedin.svg" />][linkedin]
 <br/><br/>
 
 
