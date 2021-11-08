@@ -12,15 +12,18 @@ Hi, I’m @jAcee12 👋
 # Languages I have experience with
 
 [<img align="left" alt="jadocee#4635" width="32px" src="https://img.icons8.com/fluency/48/000000/discord.png" />][twitter]
+<br/>
 
 # Tools that I use
 
 [<img align="left" alt="jadocee#4635" width="32px" src="Icons/vscode.svg" />][vscode]
+<br/>
 
 # Contact Me
 
 [<img align="left" alt="jadocee#4635" width="32px" src="https://img.icons8.com/fluency/48/000000/discord.png" />][discord]
 [<img align="left" alt="@JaCee____" width="32px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+<br/>
 
 
 <!---
