@@ -9,7 +9,7 @@ Hi, I’m @jAcee12 👋
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
-# Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt="HTML5" width="32px" height="32px" src="Icons/HTML5_Logo.svg" />][vscode]
 [<img align="left" alt="CSS" width="32px" height="32px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
@@ -22,7 +22,7 @@ Hi, I’m @jAcee12 👋
 [<img align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
 
-# Contact Me
+## Contact Me
 
 [<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/Discord-Logo-Color.svg" />][discord]
 [<img align="left" alt="@JaCee____" width="32px" height="32px" src="Icons/Logo blue.svg" />][twitter]
