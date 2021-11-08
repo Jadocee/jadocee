@@ -24,7 +24,7 @@ Hi, I’m @jAcee12 👋
 
 [<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/Discord-Logo-Color.svg" />][discord]
 [<img align="left" alt="@JaCee____" width="48px" height="48px" src="Icons/Logo blue.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="48px" height="48px" src="Icons/LI-In-Bug.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="48px" height="48px" src="Icons/icons8-linkedin.svg" />][linkedin]
 <br/><br/>
 
 
