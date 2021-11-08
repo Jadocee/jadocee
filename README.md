@@ -11,16 +11,16 @@ Hi, I’m @jAcee12 👋
 
 # Languages and Tools
 
-[<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/HTML5_Logo.svg" />][vscode]
-[<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
+[<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/HTML5_Logo.svg" />][vscode]
+[<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
 <!--<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />-->
-[<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/vscode.svg" />][vscode]
+[<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/vscode.svg" />][vscode]
 <br/>
 
 # Contact Me
 
-[<img align="left" alt="jadocee#4635" width="32px" src="Icons/Discord-Logo-Color.svg" />][discord]
-[<img align="left" alt="@JaCee____" width="32px" src="Icons/Logo blue.svg" />][twitter]
+[<img align="left" alt="jadocee#4635" width="48px" height="48px" src="Icons/Discord-Logo-Color.svg" />][discord]
+[<img align="left" alt="@JaCee____" width="48px" height="48px" src="Icons/Logo blue.svg" />][twitter]
 <br/>
 
 
