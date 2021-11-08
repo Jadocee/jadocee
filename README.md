@@ -13,8 +13,10 @@ Hi, I’m @jAcee12 👋
 
 [<img align="left" alt="HTML5" width="48px" height="48px" src="Icons/HTML5_Logo.svg" />][vscode]
 [<img align="left" alt="CSS" width="48px" height="48px" src="Icons/CSS3_logo_and_wordmark.svg" />][vscode]
-[<img align="left" alt="JavaScript" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />][javascript]
-<!--<img align="left" alt="jadocee#4635" width="32px" src="Icons/CSS_logo_PNG1.png" />-->
+[<img align="left" alt="JavaScript" width="48px" height="48px" src="Icons/icons8-javascript.svg" />][javascript]
+[<img align="left" alt="C++" width="48px" height="48px" src="Icons/icons8-c++.svg" />][c++]
+[<img align="left" alt="Java" width="48px" height="48px" src="Icons/icons8-java.svg" />][java]
+
 [<img align="left" alt="VSCode" width="48px" height="48px" src="Icons/vscode.svg" />][vscode]
 [<img align="left" alt="CLion" width="48px" height="48px" src="Icons/CLion_icon.svg" />][clion]
 [<img align="left" alt="IntelliJ IDEA" width="48px" height="48px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
@@ -42,3 +44,6 @@ You can click the Preview link to take a look at your changes.
 [javascript]: https://www.javascript.com/
 [clion]: https://www.jetbrains.com/clion/
 [intellij]: https://www.jetbrains.com/idea/
+[java]: https://www.java.com/en/
+[c++]: https://www.cplusplus.com/
+
