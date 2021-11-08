@@ -11,7 +11,7 @@ Hi, I’m @jAcee12 👋
 
 # Languages I have experience with
 
-[<img align="left" alt="jadocee#4635" width="32px" src="https://img.icons8.com/fluency/48/000000/discord.png" />][twitter]
+[<img align="left" alt="jadocee#4635" width="32px" src="Icons/HTML5_Logo.svg" />]
 <br/>
 
 # Tools that I use
