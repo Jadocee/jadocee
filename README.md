@@ -2,12 +2,22 @@ Hi, I’m @jAcee12 👋
 
 # About Me
 
-📚 I am currently studying a bachelor of software engineering at the university of newcastle, australia.<br/>
+📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the University of Newcastle, in Australia.<br/>
 💻 PC gamer.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+
+## Courses I am studying (or have studied)
+- <a href="https://www.newcastle.edu.au/course/ENGG1500">Introduction to Professional Engineering</a>
+- <a href="https://www.newcastle.edu.au/course/MATH1110">Maths for Engineering, Science & Technology 1</a>
+- <a href="https://www.newcastle.edu.au/course/SENG1110">Object Oriented Programming</a>
+- <a href="https://www.newcastle.edu.au/course/MATH1510">Discrete Mathematics</a>
+- <a href="https://www.newcastle.edu.au/course/SENG1050">Web Technologies</a>
+- <a href="https://www.newcastle.edu.au/course/SENG1120">Data Structures</a>
+- <a href="https://www.newcastle.edu.au/course/COMP1010">Computing Fundamentals</a>
+- <a href="https://www.newcastle.edu.au/course/COMP1140">Database and Information Management</a>
 
 ## Languages and Tools
 
