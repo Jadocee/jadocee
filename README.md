@@ -3,7 +3,7 @@ Hi, I’m @jAcee12 👋
 # About Me
 
 📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the University of Newcastle, in Australia.<br/>
-💻 PC gamer.
+💻 PC gamer.<br/>
 🪙 Staking <a href="https://cardano.org/">$ADA</a>.
 
 - 👀 I’m interested in ...
