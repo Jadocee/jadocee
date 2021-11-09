@@ -33,7 +33,7 @@ Hi, I’m @jAcee12 👋
 [<img align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
 
-## Ways you can conatact me
+## How you can contact me
 
 [<img align="left" alt="jadocee#4635" width="32px" height="32px" src="Icons/Discord-Logo-Color.svg" />][discord]
 [<img align="left" alt="@JaCee____" width="32px" height="32px" src="Icons/Logo blue.svg" />][twitter]
