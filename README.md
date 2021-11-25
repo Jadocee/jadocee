@@ -6,9 +6,11 @@ Hi, I’m [@jAcee12](https://github.com/jAcee12) 👋
 💻 PC gamer.<br/>
 🪙 Staking <a href="https://cardano.org/">$ADA</a>.
 
+<!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+-->
 
 ## Courses I am studying (or have studied)
 - <a href="https://www.newcastle.edu.au/course/ENGG1500">Introduction to Professional Engineering</a>
