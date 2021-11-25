@@ -5,6 +5,7 @@
 📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the University of Newcastle, in Australia.<br/>
 💻 PC gamer.<br/>
 🪙 Staking <a href="https://cardano.org/">$ADA</a>.
+<hr/>
 
 <!--
 - 👀 I’m interested in ...
@@ -21,6 +22,7 @@
 - <a href="https://www.newcastle.edu.au/course/SENG1120">Data Structures</a>
 - <a href="https://www.newcastle.edu.au/course/COMP1010">Computing Fundamentals</a>
 - <a href="https://www.newcastle.edu.au/course/COMP1140">Database and Information Management</a>
+<hr/>
 
 ## Languages and tools that I use
 
@@ -34,6 +36,8 @@
 [<img align="left" alt="CLion" width="32px" height="32px" src="Icons/CLion_icon.svg" />][clion]
 [<img align="left" alt="IntelliJ IDEA" width="32px" height="32px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
+<hr/>
+
 
 ## How you can contact me
 
@@ -41,7 +45,7 @@
 [<img align="left" alt="@JaCee____" width="32px" height="32px" src="Icons/Logo blue.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" height="32px" src="Icons/icons8-linkedin.svg" />][linkedin]
 <br/><br/>
-
+<hr/>
 
 
 <!---
