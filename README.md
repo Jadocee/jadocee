@@ -1,6 +1,6 @@
-Hi, I’m [@jAcee12](https://github.com/jAcee12) 👋
+# Hi, I’m [@jAcee12](https://github.com/jAcee12) 👋
 
-# About Me
+## About Me
 
 📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the University of Newcastle, in Australia.<br/>
 💻 PC gamer.<br/>
