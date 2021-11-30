@@ -38,6 +38,11 @@
 <br/><br/>
 <hr/>
 
+## What I am currently (or planning to) learn
+[<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
+[<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
+
+
 
 ## How you can contact me
 
@@ -57,6 +62,9 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/JaCee____
 [discord]: https://discordapp.com/users/390237452595363866
 [linkedin]: https://linkedin.com/in/jaydon-cameron
+
+[react]: https://reactjs.org/
+[.net]: https://dotnet.microsoft.com/
 
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
