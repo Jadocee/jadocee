@@ -26,8 +26,8 @@
 
 ## Languages and tools that I use
 
-[<img align="left" alt="HTML5" width="32px" height="32px" src="Icons/HTML5_Logo.svg" />]()
-[<img align="left" alt="CSS" width="32px" height="32px" src="Icons/CSS3_logo_and_wordmark.svg" />]()
+[<img align="left" alt="HTML5" width="32px" height="32px" src="Icons/HTML5_Logo.svg" />][html]
+[<img align="left" alt="CSS" width="32px" height="32px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
 [<img align="left" alt="JavaScript" width="32px" height="32px" src="Icons/icons8-javascript.svg" />][javascript]
 [<img align="left" alt="C++" width="32px" height="32px" src="Icons/icons8-c++.svg" />][c++]
 [<img align="left" alt="Java" width="32px" height="32px" src="Icons/icons8-java.svg" />][java]
@@ -64,4 +64,6 @@ You can click the Preview link to take a look at your changes.
 [intellij]: https://www.jetbrains.com/idea/
 [java]: https://www.java.com/en/
 [c++]: https://www.cplusplus.com/
+[html]: https://www.w3.org/html/
+[css]: https://www.w3.org/Style/CSS/Overview.en.html
 
