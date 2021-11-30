@@ -41,6 +41,8 @@
 ## What I am currently (or planning to) learn
 [<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
+<br/><br/>
+<hr/>
 
 
 
