@@ -39,6 +39,7 @@
 ## What I plan to learn
 [<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
+[<img align="left" alt="Haskell" width="36px" height="36px" src="Icons/Haskell-Logo.svg" />][haskell]
 <br/><br/>
 
 ## How you can contact me
@@ -54,6 +55,7 @@
 
 [react]: https://reactjs.org/
 [.net]: https://dotnet.microsoft.com/
+[haskell]: https://www.haskell.org/
 
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
