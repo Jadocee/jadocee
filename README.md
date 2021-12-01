@@ -37,6 +37,7 @@
 <br/><br/>
 
 ## What I plan to learn
+[<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 [<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
 [<img align="left" alt="Haskell" width="36px" height="36px" src="Icons/Haskell-Logo.svg" />][haskell]
@@ -53,6 +54,7 @@
 [discord]: https://discordapp.com/users/390237452595363866
 [linkedin]: https://linkedin.com/in/jaydon-cameron
 
+[typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [.net]: https://dotnet.microsoft.com/
 [haskell]: https://www.haskell.org/
