@@ -23,22 +23,25 @@
 - <a href="https://www.newcastle.edu.au/course/COMP1010">Computing Fundamentals</a>
 - <a href="https://www.newcastle.edu.au/course/COMP1140">Database and Information Management</a>
 
-## Languages and tools that I have used
+## Languages I have experience with
 I have experience using the following languages, but I am most familiar with Java.
 
+[<img align="left" alt="Java" width="36px" height="36px" src="Icons/icons8-java.svg" />][java]
+[<img align="left" alt="C++" width="36px" height="36px" src="Icons/icons8-c++.svg" />][c++]
 [<img align="left" alt="HTML5" width="36px" height="36px" src="Icons/HTML5_Logo.svg" />][html]
 [<img align="left" alt="CSS" width="36px" height="36px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
 [<img align="left" alt="JavaScript" width="36px" height="36px" src="Icons/icons8-javascript.svg" />][javascript]
-[<img align="left" alt="C++" width="36px" height="36px" src="Icons/icons8-c++.svg" />][c++]
-[<img align="left" alt="Java" width="36px" height="36px" src="Icons/icons8-java.svg" />][java]
+<br/><br/>
 
+
+## Tools I have experience with
 [<img align="left" alt="VSCode" width="36px" height="36px" src="Icons/vscode.svg" />][vscode]
 [<img align="left" alt="CLion" width="36px" height="36px" src="Icons/CLion_icon.svg" />][clion]
 [<img align="left" alt="IntelliJ IDEA" width="36px" height="36px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
 
-## What I plan to learn
-[<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
+## The languages and tools I plan to learn
+[<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="Sass/SCSS" width="36px" height="36px" src="Icons/seal-color-aef0354c.png" />][sass]
 [<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
@@ -61,6 +64,7 @@ I have experience using the following languages, but I am most familiar with Jav
 [.net]: https://dotnet.microsoft.com/
 [haskell]: https://www.haskell.org/
 [sass]: https://sass-lang.com/
+[cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
