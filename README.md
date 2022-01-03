@@ -1,4 +1,4 @@
-# Hi, I’m [@jAcee12](https://github.com/jAcee12) 👋
+# Hi, I’m [@jadocee](https://github.com/jadocee) 👋
 
 ## About Me
 
@@ -23,7 +23,8 @@
 - <a href="https://www.newcastle.edu.au/course/COMP1010">Computing Fundamentals</a>
 - <a href="https://www.newcastle.edu.au/course/COMP1140">Database and Information Management</a>
 
-## Languages and tools that I use
+## Languages and tools that I have used
+I have experience using the following languages, but I am most familiar with Java.
 
 [<img align="left" alt="HTML5" width="36px" height="36px" src="Icons/HTML5_Logo.svg" />][html]
 [<img align="left" alt="CSS" width="36px" height="36px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
