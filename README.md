@@ -42,8 +42,6 @@ I have experience using the following languages, but I am most familiar with Jav
 
 ## The languages and tools I plan to learn
 [<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
-[<img align="left" alt="Sass/SCSS" width="36px" height="36px" src="Icons/seal-color-aef0354c.png" />][sass]
-[<img align="left" alt="Reactjs" width="36px" height="36px" src="Icons/React-icon.svg" />][react]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
 [<img align="left" alt="Haskell" width="36px" height="36px" src="Icons/Haskell-Logo.svg" />][haskell]
 <br/><br/>
