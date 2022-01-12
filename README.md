@@ -2,29 +2,31 @@
 
 ## About Me
 
-📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the University of Newcastle, in Australia.<br/>
-💻 PC gamer.<br/>
-🪙 Staking <a href="https://cardano.org/">$ADA</a>.
-<hr/>
+📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
+💻 I enjoy playing games on my PC.<br/>
+🪙 Currently staking <a href="https://cardano.org/">$ADA</a>.<br/>
+🤔 Interested in web development and blockchain technologies.
 
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 -->
+## My Goals For 2022
 
-## Courses I am studying (or have studied)
-- <a href="https://www.newcastle.edu.au/course/ENGG1500">Introduction to Professional Engineering</a>
-- <a href="https://www.newcastle.edu.au/course/MATH1110">Maths for Engineering, Science & Technology 1</a>
-- <a href="https://www.newcastle.edu.au/course/SENG1110">Object Oriented Programming</a>
-- <a href="https://www.newcastle.edu.au/course/MATH1510">Discrete Mathematics</a>
-- <a href="https://www.newcastle.edu.au/course/SENG1050">Web Technologies</a>
-- <a href="https://www.newcastle.edu.au/course/SENG1120">Data Structures</a>
-- <a href="https://www.newcastle.edu.au/course/COMP1010">Computing Fundamentals</a>
-- <a href="https://www.newcastle.edu.au/course/COMP1140">Database and Information Management</a>
+- [ ] Pass Semester 1 at University
+- [ ] Pass Semester 2 at University
+- [ ] Learn and use C#
+- [ ] Learn to create web UI and UX using Svelte
+- [ ] Learn TypeScript
+- [ ] Contribute to an open-source project for the first time
+- [ ] Develop an ASP.NET Core Web App using Svelte and Vite for the frontend, and C# and .NET 6 for the backend
+- [ ] Deploy a Plutus contract on the [Alonzo testnet](https://github.com/input-output-hk/Alonzo-testnet)
+- [ ] Get some work experience (or at least apply for some 🙂)
 
-## Languages I have experience with
-I have experience using the following languages, but I am most familiar with Java.
+## What I Have Used
+
+### Languages
 
 [<img align="left" alt="Java" width="36px" height="36px" src="Icons/icons8-java.svg" />][java]
 [<img align="left" alt="C++" width="36px" height="36px" src="Icons/icons8-c++.svg" />][c++]
@@ -33,17 +35,21 @@ I have experience using the following languages, but I am most familiar with Jav
 [<img align="left" alt="JavaScript" width="36px" height="36px" src="Icons/icons8-javascript.svg" />][javascript]
 <br/><br/>
 
+### Tools
 
-## Tools I have experience with
 [<img align="left" alt="VSCode" width="36px" height="36px" src="Icons/vscode.svg" />][vscode]
 [<img align="left" alt="CLion" width="36px" height="36px" src="Icons/CLion_icon.svg" />][clion]
 [<img align="left" alt="IntelliJ IDEA" width="36px" height="36px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
 <br/><br/>
 
-## The languages and tools I plan to learn
+## What I Am Learning *(Or Want To Learn)*
+
 [<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
 [<img align="left" alt="Haskell" width="36px" height="36px" src="Icons/Haskell-Logo.svg" />][haskell]
+[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][vite]
+[<img align="left" alt="Svelte" width="36px" height="36px" src="Icons/svelte-logo.svg" />][svelte]
+[<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 <br/><br/>
 
 ## How you can contact me
@@ -57,13 +63,20 @@ I have experience using the following languages, but I am most familiar with Jav
 [discord]: https://discordapp.com/users/390237452595363866
 [linkedin]: https://linkedin.com/in/jaydon-cameron
 
+
+<!-- Languages -->
 [typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [.net]: https://dotnet.microsoft.com/
 [haskell]: https://www.haskell.org/
 [sass]: https://sass-lang.com/
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[vite]: https://vitejs.dev/
 
+<!-- Frameworks -->
+[svelte]: https://svelte.dev/
+
+<!-- Tools -->
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
 [clion]: https://www.jetbrains.com/clion/
