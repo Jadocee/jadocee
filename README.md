@@ -52,11 +52,6 @@
 [<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 <br/><br/>
 
-[<img align="right" alt="jadocee#4635" width="24px" height="24px" src="Icons/Discord-Logo-Color.svg" />][discord]
-[<img align="right" alt="@JaCee____" width="24px" height="24px" src="Icons/Logo blue.svg" />][twitter]
-[<img align="right" alt="LinkedIn" width="24px" height="24px" src="Icons/icons8-linkedin.svg" />][linkedin]
-<br/><br/>
-
 
 <!-- Languages -->
 [typescript]: https://www.typescriptlang.org/
