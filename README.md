@@ -1,4 +1,4 @@
-# Hi, I’m [@jadocee](https://github.com/jadocee) 👋
+# Hi, I’m [@jadocee](https://github.com/jadocee) 👋 <!-- [<img align="right" alt="jadocee#4635" width="24px" height="24px" src="Icons/Discord-Logo-Color.svg" />][discord] --> [<img align="right" alt="@JaCee____" width="24px" height="24px" src="Icons/Logo blue.svg" />][twitter] [<img align="right" alt="LinkedIn" width="24px" height="24px" src="Icons/icons8-linkedin.svg" />][linkedin]
 
 ## About Me
 
@@ -52,11 +52,9 @@
 [<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 <br/><br/>
 
-## How you can contact me
-
-[<img align="left" alt="jadocee#4635" width="36px" height="36px" src="Icons/Discord-Logo-Color.svg" />][discord]
-[<img align="left" alt="@JaCee____" width="36px" height="36px" src="Icons/Logo blue.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="36px" height="36px" src="Icons/icons8-linkedin.svg" />][linkedin]
+[<img align="right" alt="jadocee#4635" width="24px" height="24px" src="Icons/Discord-Logo-Color.svg" />][discord]
+[<img align="right" alt="@JaCee____" width="24px" height="24px" src="Icons/Logo blue.svg" />][twitter]
+[<img align="right" alt="LinkedIn" width="24px" height="24px" src="Icons/icons8-linkedin.svg" />][linkedin]
 <br/><br/>
 
 [twitter]: https://twitter.com/JaCee____
