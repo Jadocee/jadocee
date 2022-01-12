@@ -2,7 +2,7 @@
 
 ## About Me
 
-📚 I am currently studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
+📚 I am in second year of studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
 💻 I enjoy playing games on my PC.<br/>
 🪙 Currently staking <a href="https://cardano.org/">$ADA</a>.<br/>
 🤔 Interested in web development and blockchain technologies.
