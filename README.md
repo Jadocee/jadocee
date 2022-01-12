@@ -57,10 +57,6 @@
 [<img align="right" alt="LinkedIn" width="24px" height="24px" src="Icons/icons8-linkedin.svg" />][linkedin]
 <br/><br/>
 
-[twitter]: https://twitter.com/JaCee____
-[discord]: https://discordapp.com/users/390237452595363866
-[linkedin]: https://linkedin.com/in/jaydon-cameron
-
 
 <!-- Languages -->
 [typescript]: https://www.typescriptlang.org/
