@@ -52,6 +52,9 @@
 [<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 <br/><br/>
 
+<!-- Social -->
+[twitter]: https://twitter.com/JaCee____
+[linkedin]: https://www.linkedin.com/in/jaydon-cameron/
 
 <!-- Languages -->
 [typescript]: https://www.typescriptlang.org/
