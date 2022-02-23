@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 -->
-## My Goals For 2022
+<!-- ## My Goals For 2022
 
 - [ ] Pass Semester 1 at University
 - [ ] Pass Semester 2 at University
@@ -22,7 +22,7 @@
 - [ ] Contribute to an open-source project for the first time
 - [ ] Develop an ASP.NET Core Web App using Svelte and Vite for the frontend, and C# and .NET 6 for the backend
 - [ ] Deploy a Plutus contract on the [Alonzo testnet](https://github.com/input-output-hk/Alonzo-testnet)
-- [ ] Get some work experience (or at least apply for some 🙂)
+- [ ] Get some work experience (or at least apply for some 🙂) -->
 
 ## What I Have Used
 
@@ -53,7 +53,7 @@
 <br/><br/>
 
 <!-- Social -->
-[twitter]: https://twitter.com/JaCee____
+[twitter]: https://twitter.com/jadocee__
 [linkedin]: https://www.linkedin.com/in/jaydon-cameron/
 
 <!-- Languages -->
