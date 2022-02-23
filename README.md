@@ -53,7 +53,7 @@
 <br/><br/>
 
 <!-- Social -->
-[twitter]: https://twitter.com/jadocee__
+[twitter]: https://twitter.com/jadocee_
 [linkedin]: https://www.linkedin.com/in/jaydon-cameron/
 
 <!-- Languages -->
