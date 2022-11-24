@@ -16,9 +16,9 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 [<img align="left" alt="JavaScript" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" loading="lazy" />](https://www.javascript.com/)
 
-[<img align="left" alt="HTML" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" loading="lazy" />](https://www.w3.org/html/)
+[<img align="left" alt="HTML" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" loading="lazy" />](https://www.w3.org/html/)
 
-[<img align="left" alt="CSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" loading="lazy" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="CSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" loading="lazy" />](https://www.w3.org/Style/CSS/Overview.en.html)
 
 [<img align="left" alt="C++" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" loading="lazy" />](https://www.cplusplus.com/)
 
