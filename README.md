@@ -46,13 +46,17 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ### Software, Hardware, and Tools
 
+<!-- Unity; Light Mode -->
 [<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />](https://unity.com/#gh-light-mode-only)
 
-[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;filter: invert(100%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />](https://unity.com/#gh-dark-mode-only)
+<!-- Unity; Dark Mode -->
+[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="./Icons/Unity-dark.svg" loading="lazy" />](https://unity.com/#gh-light-mode-only)
 
+<!-- Microsoft SQL Server; Dark Mode -->
 [<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only)
 
-[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;filter: invert(100%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-dark-mode-only)
+<!-- Microsoft SQL Server; Light Mode -->
+[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="./Icons/mssqlserver-dark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-dark-mode-only)
 
 [<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 
