@@ -56,7 +56,7 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
             srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />
+        <img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"       loading="lazy" />
     </picture>
 </a>
 
@@ -70,7 +70,7 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
             srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />
+        <img align="left" alt="Microsoft SQL Server" width="36px" height="auto"         style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/        microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />
     </picture>
 </a>
 
@@ -86,7 +86,7 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
             srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />
+        <img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"         loading="lazy" />
     </picture>
 </a>
 
@@ -124,7 +124,7 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
         srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true" loading="lazy"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&      count_private=true" loading="lazy"/>
 </picture>
 
 <!-- Icons: https://devicon.dev/ -->
