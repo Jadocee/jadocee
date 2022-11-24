@@ -2,9 +2,7 @@
 
 ## About Me
 
-📚 I am in second year of studying a <a href="https://www.newcastle.edu.au/degrees/bachelor-of-software-engineering-honours">Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
-<!-- 💻 I enjoy playing games on my PC.<br/>
-🪙 Currently staking <a href="https://cardano.org/">$ADA</a>.<br/> -->
+📚 Studing a Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
 🤔 Interested in cross-platform application development and web development.
 
 <!--
@@ -27,30 +25,30 @@
 ## What I Have Used
 
 ### Languages
-
+[<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
 [<img align="left" alt="Java" width="36px" height="36px" src="Icons/icons8-java.svg" />][java]
 [<img align="left" alt="C++" width="36px" height="36px" src="Icons/icons8-c++.svg" />][c++]
 [<img align="left" alt="HTML5" width="36px" height="36px" src="Icons/HTML5_Logo.svg" />][html]
-[<img align="left" alt="CSS" width="36px" height="36px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
+[<img align="left" alt="CSS3" width="36px" height="36px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
 [<img align="left" alt="JavaScript" width="36px" height="36px" src="Icons/icons8-javascript.svg" />][javascript]
+[<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
 <br/><br/>
 
-### Tools
+### Frameworks and Libraries
+[<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
+[<img align="left" alt="Svelte" width="36px" height="36px" src="Icons/svelte-logo.svg" />][svelte]
+[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][vite]
+<br/><br/>
 
-[<img align="left" alt="VSCode" width="36px" height="36px" src="Icons/vscode.svg" />][vscode]
+### Software and Tools
+[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][Unity]
+
+<!-- [<img align="left" alt="VSCode" width="36px" height="36px" src="Icons/vscode.svg" />][vscode]
 [<img align="left" alt="CLion" width="36px" height="36px" src="Icons/CLion_icon.svg" />][clion]
-[<img align="left" alt="IntelliJ IDEA" width="36px" height="36px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij]
+[<img align="left" alt="IntelliJ IDEA" width="36px" height="36px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij] -->
 <br/><br/>
 
 ## What I Am Learning *(Or Want To Learn)*
-
-[<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
-[<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
-[<img align="left" alt="Haskell" width="36px" height="36px" src="Icons/Haskell-Logo.svg" />][haskell]
-[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][vite]
-[<img align="left" alt="Svelte" width="36px" height="36px" src="Icons/svelte-logo.svg" />][svelte]
-[<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
-<br/><br/>
 
 <!-- Social -->
 [twitter]: https://twitter.com/jadocee_
@@ -69,7 +67,6 @@
 [svelte]: https://svelte.dev/
 
 <!-- Tools -->
-[vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
 [clion]: https://www.jetbrains.com/clion/
 [intellij]: https://www.jetbrains.com/idea/
@@ -77,4 +74,7 @@
 [c++]: https://www.cplusplus.com/
 [html]: https://www.w3.org/html/
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
+
+<!-- Software -->
+[Unity]: https://unity.com/
 
