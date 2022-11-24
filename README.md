@@ -68,7 +68,11 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 [<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" />](https://www.linux.org/)
 
-[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />](https://www.gnu.org/software/bash/)
+<!-- Bash; Light Mode -->
+[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
+
+<!-- Bash; Dark Mode -->
+[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="./Icons/bash-dark.svg" loading="lazy" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
 
 [<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" loading="lazy" />](https://www.raspberrypi.org/)
 
