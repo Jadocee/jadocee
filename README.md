@@ -53,14 +53,18 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 [<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="./Icons/Unity-dark.svg" loading="lazy" />](https://unity.com/#gh-dark-mode-only)
 
 <!-- Microsoft SQL Server; Dark Mode -->
-[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only)
+[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only)
 
 <!-- Microsoft SQL Server; Light Mode -->
 [<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="./Icons/mssqlserver-dark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-dark-mode-only)
 
 [<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 
-[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />](https://github.com/)
+<!-- GitHub; Light Mode -->
+[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />](https://github.com/#gh-light-mode-only)
+
+<!-- GitHub; Dark Mode -->
+[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="./Icons/github-dark.svg" loading="lazy" />](https://github.com/#gh-dark-mode-only)
 
 [<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" />](https://www.linux.org/)
 
