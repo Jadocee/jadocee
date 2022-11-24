@@ -1,10 +1,10 @@
-# Hi, I’m [@jadocee](https://github.com/jadocee) 👋
+# Hi, I’m [@Jadocee](https://github.com/Jadocee) 👋
 
-<span style="font-size:1.5rem;font-weight:500;">
 I'm an aspiring software engineer studying a Bachelor of Software Engineering full-time at the University of Newcastle, Australia.
-</span>
 
 ## 🚀 Skills
+
+<!-- Icons: https://devicon.dev/ -->
 
 ### Languages
 
@@ -115,16 +115,15 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ## 📊 Stats
 
+<!-- GitHub README Stats: https://github.com/anuraghazra/github-readme-stats -->
 <picture>
     <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=16&icon_color=e3b341&locale=en"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default"
+        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default&hide_border=true&border_radius=16&icon_color=e3b341&locale=en"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&      count_private=true" loading="lazy"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&      count_private=true&hide_border=true&border_radius=16&icon_color=e3b341&locale=en" loading="lazy"/>
 </picture>
-
-<!-- Icons: https://devicon.dev/ -->
