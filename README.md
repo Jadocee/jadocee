@@ -1,80 +1,145 @@
-# Hi, I’m [@jadocee](https://github.com/jadocee) 👋 <!-- [<img align="right" alt="jadocee#4635" width="24px" height="24px" src="Icons/Discord-Logo-Color.svg" />][discord] --> [<img align="right" alt="@JaCee____" width="24px" height="24px" src="Icons/Logo blue.svg" />][twitter] [<img align="right" alt="LinkedIn" width="24px" height="24px" src="Icons/icons8-linkedin.svg" />][linkedin]
+# Hi, I’m [@jadocee](https://github.com/jadocee) 👋
 
-## About Me
+<span style="font-size:1.5rem;font-weight:500;">
+I'm an aspiring software engineer studying a Bachelor of Software Engineering full-time at the University of Newcastle, Australia.
+</span>
 
-📚 Studing a Bachelor of Software Engineering</a> at the <a href="https://www.newcastle.edu.au/">University of Newcastle</a>, Australia.<br/>
-🤔 Interested in cross-platform application development and web development.
-
-<!--
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
--->
-<!-- ## My Goals For 2022
-
-- [ ] Pass Semester 1 at University
-- [ ] Pass Semester 2 at University
-- [ ] Learn and use C#
-- [ ] Learn to create web UI and UX using Svelte
-- [ ] Learn TypeScript
-- [ ] Contribute to an open-source project for the first time
-- [ ] Develop an ASP.NET Core Web App using Svelte and Vite for the frontend, and C# and .NET 6 for the backend
-- [ ] Deploy a Plutus contract on the [Alonzo testnet](https://github.com/input-output-hk/Alonzo-testnet)
-- [ ] Get some work experience (or at least apply for some 🙂) -->
-
-## What I Have Used
+## 🚀 Skills
 
 ### Languages
-[<img align="left" alt="C#" width="36px" height="36px" src="Icons/464px-C_Sharp_wordmark.svg.png" />][cs]
-[<img align="left" alt="Java" width="36px" height="36px" src="Icons/icons8-java.svg" />][java]
-[<img align="left" alt="C++" width="36px" height="36px" src="Icons/icons8-c++.svg" />][c++]
-[<img align="left" alt="HTML5" width="36px" height="36px" src="Icons/HTML5_Logo.svg" />][html]
-[<img align="left" alt="CSS3" width="36px" height="36px" src="Icons/CSS3_logo_and_wordmark.svg" />][css]
-[<img align="left" alt="JavaScript" width="36px" height="36px" src="Icons/icons8-javascript.svg" />][javascript]
-[<img align="left" alt="TypeScript" width="36px" height="36px" src="Icons/ts-logo-512.svg" />][typescript]
-<br/><br/>
+
+[<img align="left" alt="Java" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" loading="lazy"/>](https://www.java.com/en/)
+
+[<img align="left" alt="C#" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" loading="lazy"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+[<img align="left" alt="TypeScript" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+
+[<img align="left" alt="JavaScript" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />](https://www.javascript.com/)
+
+[<img align="left" alt="HTML" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://www.w3.org/html/)
+
+[<img align="left" alt="CSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+
+[<img align="left" alt="C++" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />](https://www.cplusplus.com/)
+
+[<img align="left" alt="Python" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
+
+<br />
 
 ### Frameworks and Libraries
-[<img align="left" alt=".NET" width="36px" height="36px" src="Icons/NET_Logo.svg" />][.net]
-[<img align="left" alt="Svelte" width="36px" height="36px" src="Icons/svelte-logo.svg" />][svelte]
-[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][vite]
-<br/><br/>
 
-### Software and Tools
-[<img align="left" alt="Vite" width="36px" height="36px" src="Icons/vite-seeklogo.com.svg" />][Unity]
+[<img align="left" alt="Apache Maven" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />](https://maven.apache.org/)
 
-<!-- [<img align="left" alt="VSCode" width="36px" height="36px" src="Icons/vscode.svg" />][vscode]
-[<img align="left" alt="CLion" width="36px" height="36px" src="Icons/CLion_icon.svg" />][clion]
-[<img align="left" alt="IntelliJ IDEA" width="36px" height="36px" src="Icons/IntelliJ_IDEA_icon.svg" />][intellij] -->
-<br/><br/>
+[<img align="left" alt="Apache Tomcat" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />](https://tomcat.apache.org/)
 
-## What I Am Learning *(Or Want To Learn)*
+[<img align="left" alt="Spring" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />](https://spring.io/)
 
-<!-- Social -->
-[twitter]: https://twitter.com/jadocee_
-[linkedin]: https://www.linkedin.com/in/jaydon-cameron/
+[<img align="left" alt="Svelte" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />](https://svelte.dev/)
 
-<!-- Languages -->
-[typescript]: https://www.typescriptlang.org/
-[react]: https://reactjs.org/
-[.net]: https://dotnet.microsoft.com/
-[haskell]: https://www.haskell.org/
-[sass]: https://sass-lang.com/
-[cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[vite]: https://vitejs.dev/
+[<img align="left" alt="React" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
 
-<!-- Frameworks -->
-[svelte]: https://svelte.dev/
+[<img align="left" alt="Dotnet" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />](https://dotnet.microsoft.com/)
 
-<!-- Tools -->
-[javascript]: https://www.javascript.com/
-[clion]: https://www.jetbrains.com/clion/
-[intellij]: https://www.jetbrains.com/idea/
-[java]: https://www.java.com/en/
-[c++]: https://www.cplusplus.com/
-[html]: https://www.w3.org/html/
-[css]: https://www.w3.org/Style/CSS/Overview.en.html
+[<img align="left" alt="TailwindCSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
 
-<!-- Software -->
-[Unity]: https://unity.com/
+<br />
 
+### Software, Hardware, and Tools
+
+[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />](https://unity.com/)
+
+[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019)
+
+[<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+
+[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+
+[<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/)
+
+[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
+
+[<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />](https://www.raspberrypi.org/)
+
+[<img align="left" alt="Arduino" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />](https://www.arduino.cc/)
+
+<br />
+<br />
+
+## 📊 Stats
+
+[![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-statsk#gh-dark-mode-only)
+
+[![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-statsk#gh-light-mode-only)# Hi, I’m [@jadocee](https://github.com/jadocee) 👋
+
+<span style="font-size:1.5rem;font-weight:500;">
+I'm an aspiring software engineer studying a Bachelor of Software Engineering full-time at the University of Newcastle, Australia.
+</span>
+
+## 🚀 Skills
+
+### Languages
+
+[<img align="left" alt="Java" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" loading="lazy"/>](https://www.java.com/en/)
+
+[<img align="left" alt="C#" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" loading="lazy"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+[<img align="left" alt="TypeScript" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />](https://www.typescriptlang.org/)
+
+[<img align="left" alt="JavaScript" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />](https://www.javascript.com/)
+
+[<img align="left" alt="HTML" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />](https://www.w3.org/html/)
+
+[<img align="left" alt="CSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+
+[<img align="left" alt="C++" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />](https://www.cplusplus.com/)
+
+[<img align="left" alt="Python" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
+
+<br />
+
+### Frameworks and Libraries
+
+[<img align="left" alt="Apache Maven" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />](https://maven.apache.org/)
+
+[<img align="left" alt="Apache Tomcat" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />](https://tomcat.apache.org/)
+
+[<img align="left" alt="Spring" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />](https://spring.io/)
+
+[<img align="left" alt="Svelte" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />](https://svelte.dev/)
+
+[<img align="left" alt="React" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
+
+[<img align="left" alt="Dotnet" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />](https://dotnet.microsoft.com/)
+
+[<img align="left" alt="TailwindCSS" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />](https://tailwindcss.com/)
+
+<br />
+
+### Software, Hardware, and Tools
+
+[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />](https://unity.com/)
+
+[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019)
+
+[<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+
+[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+
+[<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/)
+
+[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/)
+
+[<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />](https://www.raspberrypi.org/)
+
+[<img align="left" alt="Arduino" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />](https://www.arduino.cc/)
+
+<br />
+<br />
+
+## 📊 Stats
+
+[![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-statsk#gh-dark-mode-only)
+
+[![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-statsk#gh-light-mode-only)
+
+<!-- Icons: https://devicon.dev/ -->
