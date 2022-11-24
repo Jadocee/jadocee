@@ -47,32 +47,44 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 ### Software, Hardware, and Tools
 
 <!-- Unity; Light Mode -->
+
 [<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />](https://unity.com/#gh-light-mode-only)
 
 <!-- Unity; Dark Mode -->
+
 [<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="./Icons/Unity-dark.svg" loading="lazy" />](https://unity.com/#gh-dark-mode-only)
 
 <!-- Microsoft SQL Server; Dark Mode -->
+
 [<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only)
 
 <!-- Microsoft SQL Server; Light Mode -->
+
 [<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="./Icons/mssqlserver-dark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-dark-mode-only)
 
 [<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 
 <!-- GitHub; Light Mode -->
+
 [<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />](https://github.com/#gh-light-mode-only)
 
 <!-- GitHub; Dark Mode -->
+
 [<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="./Icons/github-dark.svg" loading="lazy" />](https://github.com/#gh-dark-mode-only)
 
 [<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" />](https://www.linux.org/)
 
-<!-- Bash; Light Mode -->
-[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />](https://www.gnu.org/software/bash/#gh-light-mode-only)
-
-<!-- Bash; Dark Mode -->
-[<img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="./Icons/bash-dark.svg" loading="lazy" />](https://www.gnu.org/software/bash/#gh-dark-mode-only)
+<picture>
+    <source 
+        srcset="./Icons/bash-dark.svg"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />
+</picture>
 
 [<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" loading="lazy" />](https://www.raspberrypi.org/)
 
@@ -83,8 +95,16 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ## 📊 Stats
 
-![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
-
-![Jadocee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default#gh-light-mode-only)
+<picture>
+    <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true" loading="lazy"/>
+</picture>
 
 <!-- Icons: https://devicon.dev/ -->
