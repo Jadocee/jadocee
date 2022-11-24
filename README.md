@@ -85,6 +85,6 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
-![Jadocee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default#gh-light-mode-only)
+![Jadocee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&count_private=true&theme=default#gh-light-mode-only)
 
 <!-- Icons: https://devicon.dev/ -->
