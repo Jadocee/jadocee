@@ -46,45 +46,65 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ### Software, Hardware, and Tools
 
-<!-- Unity; Light Mode -->
+<a href="https://unity.com/">
+    <picture>
+        <source 
+            srcset="./Icons/Unity-dark.svg"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />
+    </picture>
+</a>
 
-[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" loading="lazy" />](https://unity.com/#gh-light-mode-only)
-
-<!-- Unity; Dark Mode -->
-
-[<img align="left" alt="Unity" width="36px" height="auto" style="padding-right:10px;" src="./Icons/Unity-dark.svg" loading="lazy" />](https://unity.com/#gh-dark-mode-only)
-
-<!-- Microsoft SQL Server; Dark Mode -->
-
-[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only)
-
-<!-- Microsoft SQL Server; Light Mode -->
-
-[<img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="./Icons/mssqlserver-dark.svg" loading="lazy" />](https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-dark-mode-only)
+<a href="https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only">
+    <picture>
+        <source 
+            srcset="./Icons/mssqlserver-dark.svg"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="left" alt="Microsoft SQL Server" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" loading="lazy" />
+    </picture>
+</a>
 
 [<img align="left" alt="Git" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 
-<!-- GitHub; Light Mode -->
-
-[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />](https://github.com/#gh-light-mode-only)
-
-<!-- GitHub; Dark Mode -->
-
-[<img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="./Icons/github-dark.svg" loading="lazy" />](https://github.com/#gh-dark-mode-only)
+<a href="https://github.com/">
+    <picture>
+        <source 
+            srcset="./Icons/github-dark.svg"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="left" alt="GitHub" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" />
+    </picture>
+</a>
 
 [<img align="left" alt="Linux" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" />](https://www.linux.org/)
 
-<picture>
-    <source 
-        srcset="./Icons/bash-dark.svg"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />
-</picture>
+<a href="https://www.gnu.org/software/bash/">
+    <picture>
+        <source 
+            srcset="./Icons/bash-dark.svg"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="left" alt="Bash" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" />
+    </picture>
+</a>
 
 [<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" loading="lazy" />](https://www.raspberrypi.org/)
 
