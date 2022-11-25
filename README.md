@@ -46,6 +46,8 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 
 ### Software, Hardware, and Tools
 
+[<img align="left" alt="Figma" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" loading="lazy" />](https://www.figma.com/)
+
 <a href="https://unity.com/">
     <picture>
         <source 
@@ -109,6 +111,8 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
 [<img align="left" alt="Raspberry Pi" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" loading="lazy" />](https://www.raspberrypi.org/)
 
 [<img align="left" alt="Arduino" width="36px" height="auto" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" loading="lazy" />](https://www.arduino.cc/)
+
+
 
 <br />
 <br />
