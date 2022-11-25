@@ -125,5 +125,5 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
         srcset="https://github-readme-stats.vercel.app/api?username=Jadocee&show_icons=true&count_private=true&theme=default&hide_border=true&border_radius=16&icon_color=e3b341&locale=en"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=jadocee&show_icons=true&      count_private=true&hide_border=true&border_radius=16&icon_color=e3b341&locale=en" loading="lazy"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jadocee&show_icons=true&      count_private=true&hide_border=true&border_radius=16&icon_color=e3b341&locale=en" loading="lazy"/>
 </picture>
