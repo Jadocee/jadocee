@@ -60,7 +60,7 @@ I'm an aspiring software engineer studying a Bachelor of Software Engineering fu
     </picture>
 </a>
 
-<a href="https://www.microsoft.com/en-au/sql-server/sql-server-2019#gh-light-mode-only">
+<a href="https://www.microsoft.com/en-au/sql-server/sql-server-2019">
     <picture>
         <source 
             srcset="./Icons/mssqlserver-dark.svg"
